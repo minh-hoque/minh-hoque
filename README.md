@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @minh-hoque
-- 👀 I’m interested in AI, deep-learning, machine learning and front end dev.
-- 🌱 I’m currently learning deep neural networks
+- 👀 I’m interested in AI, deep-learning, machine learning and space
 - 📫 How to reach me: minh.hoque@gmail.com
 
 <!---
